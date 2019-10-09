@@ -51,7 +51,7 @@ p {
 .navbar-dark .navbar-brand:focus,
 .navbar-dark .navbar-brand:visited {
   color: rgba(255,255,255,.9);
-  font-size: 2rem;
+  font-size: 1.75rem;
   font-weight: 600;
 }
 .banner{
