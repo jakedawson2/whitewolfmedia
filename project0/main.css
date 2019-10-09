@@ -54,6 +54,9 @@ p {
   font-size: 1.75rem;
   font-weight: 600;
 }
+.navbar-brand{
+  margin-right: 0;
+}
 .banner{
   position: relative;
   top: 0;
